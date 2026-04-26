@@ -33,11 +33,11 @@ Certifications:
 
 ## 🧠 Tech Ecosystem
 ```diff
-+ Backend     : Spring Boot | Node.js | Express.js
-+ Frontend    : React.js | Tailwind CSS
-+ Database    : MongoDB | MySQL
-+ Security    : Nmap | Wireshark | TCP/IP | DNS
-+ Concepts    : OOP | DBMS | OS | CN | Secure Coding
+Backend     : Spring Boot | Node.js | Express.js
+Frontend    : React.js | Tailwind CSS
+Database    : MongoDB | MySQL
+Security    : Nmap | Wireshark | TCP/IP | DNS
+Concepts    : OOP | DBMS | OS | CN | Secure Coding
 ```
 
 ---
@@ -83,7 +83,7 @@ Tech: MERN Stack
 ---
 
 ## 🌐 Connect With Me
-- 📧 sarikad.cs2023@citchennai.net  
+- 📧 sarikad.cs2023@citchennai.net
 - 🔗 LinkedIn: https://www.linkedin.com/in/sarika-dinesh-260799293/  
 
 ---
